@@ -51,5 +51,5 @@ msgid "Address----77"
 msgstr ""
 
 #: foo/templates/bar.html:188
-msgid "Address88"
+msgid "Address88---888-----"
 msgstr ""
