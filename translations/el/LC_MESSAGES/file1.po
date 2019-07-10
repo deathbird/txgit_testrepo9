@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-07-10 11:00+0000\n"
+"PO-Revision-Date: 2019-07-10 11:51+0000\n"
 "Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2019\n"
 "Language-Team: Greek (https://beta.transifex.com/journeyman-ltd/teams/99361/el/)\n"
 "MIME-Version: 1.0\n"
@@ -51,8 +51,16 @@ msgstr "Διεύθυνση 6"
 
 #: foo/templates/bar.html:187
 msgid "Address----77"
-msgstr "Διεύθυνση 77"
+msgstr "Ξανά μετάφραση"
 
 #: foo/templates/bar.html:188
 msgid "Address88---888-----"
-msgstr "Διεύθυνση 88"
+msgstr "Μετάφραση της διεύθυνσης!"
+
+#: foo/templates/bar.html:189
+msgid "Address9"
+msgstr "Μετάφραση 999"
+
+#: foo/templates/bar.html:190
+msgid "Address101010"
+msgstr "Μετάφραση το 10"
