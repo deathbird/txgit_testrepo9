@@ -56,3 +56,11 @@ msgstr "Ξανά μετάφραση"
 #: foo/templates/bar.html:188
 msgid "Address88---888-----"
 msgstr "Μετάφραση της διεύθυνσης!"
+
+#: foo/templates/bar.html:189
+msgid "Address9"
+msgstr "Μετάφραση 999"
+
+#: foo/templates/bar.html:190
+msgid "Address101010"
+msgstr "Μετάφραση το 10"
