@@ -63,4 +63,4 @@ msgstr "Μετάφραση 999"
 
 #: foo/templates/bar.html:190
 msgid "Address101010"
-msgstr "Μετάφραση το 10"
+msgstr "Address101010"
