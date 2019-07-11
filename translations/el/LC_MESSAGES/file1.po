@@ -59,7 +59,7 @@ msgstr "Μετάφραση της διεύθυνσης!"
 
 #: foo/templates/bar.html:189
 msgid "Address9"
-msgstr "Μετάφραση 999"
+msgstr "τώρα θα δουλέψει 99"
 
 #: foo/templates/bar.html:190
 msgid "Address101010"
